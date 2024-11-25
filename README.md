@@ -4,4 +4,6 @@
 - Commands:
 ```cmd
 git clone https://github.com/AnKun10/BKAINeoPolyp-SemanticSegmentation.git
+cd BKAINeoPolyp-SemanticSegmentation
+python3 infer.py --image_path image.jpeg
 ```
